@@ -18,5 +18,3 @@ mvn clean install
 Make sure that you have the same Java version as specified in the `pom.xml` file to ensure compatibility with the application.
 ### 5. Run the Application:
 Once the build is complete, run the application using your preferred deployment method.
-### Contributing:
-If you encounter any bugs, have feature requests, or would like to contribute code, please feel free to open an issue or submit a pull request on GitHub.
